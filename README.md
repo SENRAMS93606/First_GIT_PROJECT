@@ -1,3 +1,3 @@
 # First_GIT_PROJECT
 
-this project is created for the bits assignment purpose.
+This is my first git projects and created for bits assignment......
